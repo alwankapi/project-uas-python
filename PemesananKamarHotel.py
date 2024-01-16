@@ -12,7 +12,7 @@ def input_transaction():
     header = """ 
     \t------------------------------------
     \t|              HOTEL               |
-    \t|            ~SUHU FAIZ~             | 
+    \t|            ~SYARIAH~             | 
     \t------------------------------------
     """
 
